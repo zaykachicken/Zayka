@@ -1,0 +1,6 @@
+{
+  "name": "Zayka",
+  "description": "Zayka — Fast & modern food delivery user app for Zayka Chicken Cafe & Restaurant with live tracking, menu customization, cart, and authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
